@@ -16,6 +16,8 @@ num = [2,3,4,1,7,9]
 print(indexOfMin(num))
 
 
+# alternative solution
+
 def indexMin(list):
     minIndex = list[0]
     n = len(list)
